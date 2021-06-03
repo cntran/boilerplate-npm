@@ -1,6 +1,6 @@
 {
-	"author": "Craig Tran",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Craig Tran",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
